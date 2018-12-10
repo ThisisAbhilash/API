@@ -9,7 +9,7 @@ exports.secretKeyAES = "secretKeyAES";
 
 exports.ethAdminAccount = "0xc109cda59be53b1c4d47f244f6f4248c33bbb3c9";
 
-exports.ethAdminPassword = "pwc@1234";
+exports.ethAdminPassword = "test@1234";
 
 exports.contractAddress = "0x7b0d9890ce32805c5cd52141622e31d2a76c8706";
 
